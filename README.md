@@ -27,11 +27,17 @@ Note that "run_CWAN_AB_color.m" and "run_CWAN_Lightness.m" can also be used to t
 If you utilize this framework, please cite our CVPRW 2020 paper.
 
 @inproceedings{atoum2020color,
+
   title={Color-wise Attention Network for Low-light Image Enhancement},
+  
   author={Atoum, Yousef and Ye, Mao and Ren, Liu and Tai, Ying and Liu, Xiaoming},
+  
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
+  
   pages={506--507},
+  
   year={2020}
+  
 }
 
 # Contact
