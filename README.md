@@ -1,15 +1,16 @@
 # Color-wise Attention Network for Low-light Image Enhancement
 Yousef Atoum, Mao Ye, Liu Ren, Ying Tai, and Xiaoming Liu
-
+ 
 # Introduction
-The CWAN netwrok is as detailed in the CVPRW 2020 paper. 
+The CWAN netwrok is as detailed in the CVPRW 2020 paper:
+https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Atoum_Color-Wise_Attention_Network_for_Low-Light_Image_Enhancement_CVPRW_2020_paper.pdf
 
-Our framework is implemented and tested with Matlab 2017a, using NVIDIA GTX1080Ti GPU with MatConvNet toolbox.
+Our framework is implemented and tested with Matlab 2017b, using NVIDIA GTX1080Ti GPU with MatConvNet toolbox.
 
 # Prerequisites
 - Tested on Windows only
-- Matlab R2017a
-- MatConvNet 
+- Matlab R2017b
+- MatConvNet (Latest version)
 
 > matlab/vl_setupnn.m
 
