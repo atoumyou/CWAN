@@ -22,6 +22,8 @@ We provide our models CWAN_L and CWAN_AB which are used jointly to perform color
 > Demo_CWAN.m
 
 Note that "run_CWAN_AB_color.m" and "run_CWAN_Lightness.m" can also be used to train the CWAN model within the MatConvNet toolbox (Replace with vl_simplenn).
+Please use the following DB:
+https://www.cse.msu.edu/computervision/CWAN_DB.zip
 
 # Cite
 If you utilize this framework, please cite our CVPRW 2020 paper.
